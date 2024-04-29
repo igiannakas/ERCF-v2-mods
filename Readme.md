@@ -1,8 +1,8 @@
-﻿ERCF V2 RC2 mods list
+﻿# ERCF V2 RC2 mods list
 
 While building and setting up my ERCF v2 kit I stumbled upon a few improvements in the available component designs that are aiming to improve multi material printing reliability.
 
-This repo is an archive of my mods. 
+This repo is an archive of my mods mostly so I don't loose the files :) 
 
 **Galileo 2 Extruder - Twinsor smoothed filament entry:** Smooths out the G2E filament path entry to improve extruder feeding reliability when using a 3mm ID/4mm OD reverse Bowden tube
 
