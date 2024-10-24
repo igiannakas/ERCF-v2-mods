@@ -29,3 +29,11 @@ This design was inspired by and based on the CAD work done by [Juliusjj25](https
 ![Screenshot 2024-10-24 at 13 58 23](https://github.com/user-attachments/assets/8da40195-634e-4c02-842d-6898f07d21f8)
 
 ![Screenshot 2024-10-24 at 14 01 01](https://github.com/user-attachments/assets/bc9114a0-b743-4bb9-8fc9-481b2cf26509)
+
+**Print without supports. Holes are supported internally.**
+![image](https://github.com/user-attachments/assets/75bb5576-e8e0-4de0-ba9e-817932539d5f)
+![image](https://github.com/user-attachments/assets/23d4722b-3061-4b1f-96f7-08f540bf8ed9)
+![image](https://github.com/user-attachments/assets/627a5933-ef88-40e7-b16e-0208d971fdee)
+
+
+
