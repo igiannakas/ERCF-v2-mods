@@ -38,18 +38,20 @@ Per sensor:
 
 
 ## Images
+![image](https://github.com/user-attachments/assets/663353b0-848a-48ab-8baf-64ccd3c2d612)
+![image](https://github.com/user-attachments/assets/40528144-d372-4c17-aae7-4c8dc8b981d7)
+![IMG_4764](https://github.com/user-attachments/assets/5445c45a-4c29-48b3-8b34-6efb6d59fb14)
+![IMG_4765](https://github.com/user-attachments/assets/bf8ff659-4ab3-4ba1-bb87-c28252ebd128)
 
-![Screenshot 2024-10-24 at 13 57 57](https://github.com/user-attachments/assets/507c8fd9-7792-4fab-a567-e7e5adab493b)
 
-**Filament path is right to left.**
-![Screenshot 2024-10-24 at 13 58 23](https://github.com/user-attachments/assets/8da40195-634e-4c02-842d-6898f07d21f8)
+**Please note the sensor is directional. The arrows must point towards the ERCF / Printer. In the image below the filament path is right to left.**
+![image](https://github.com/user-attachments/assets/5d4f4fe8-3db2-4e3f-aa86-e33346bbaf78)
 
-![Screenshot 2024-10-24 at 14 01 01](https://github.com/user-attachments/assets/bc9114a0-b743-4bb9-8fc9-481b2cf26509)
 
 **Print without supports. Holes are supported internally.**
-![image](https://github.com/user-attachments/assets/75bb5576-e8e0-4de0-ba9e-817932539d5f)
-![image](https://github.com/user-attachments/assets/23d4722b-3061-4b1f-96f7-08f540bf8ed9)
-![image](https://github.com/user-attachments/assets/627a5933-ef88-40e7-b16e-0208d971fdee)
-
+![image](https://github.com/user-attachments/assets/bf6911ec-0818-4278-aac5-82e57f537b78)
+![image](https://github.com/user-attachments/assets/b547bf06-97c1-4813-b0c9-f0d8f3700148)
+![image](https://github.com/user-attachments/assets/8722af79-81c0-419e-b5c2-1008977f9646)
+![image](https://github.com/user-attachments/assets/89cb71cf-327e-45c3-87ff-d1bf9207fd4a)
 
 
