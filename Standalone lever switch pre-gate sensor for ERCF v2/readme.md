@@ -44,8 +44,11 @@ Per sensor:
 ![IMG_4765](https://github.com/user-attachments/assets/bf8ff659-4ab3-4ba1-bb87-c28252ebd128)
 
 
-**Please note the sensor is directional. The arrows must point towards the ERCF / Printer. In the image below the filament path is right to left.**
+**Please note the sensor is directional. The arrows must point towards the MMU / printer.** 
+
+**In the image below the filament path is right to left - Buffer on the right, MMU on the left.**
 ![image](https://github.com/user-attachments/assets/5d4f4fe8-3db2-4e3f-aa86-e33346bbaf78)
+Notice the smooth entry when the filament is pushed back into the buffer.
 
 
 **Print without supports. Holes are supported internally.**
