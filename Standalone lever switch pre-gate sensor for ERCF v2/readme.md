@@ -34,8 +34,18 @@ Per sensor:
 | Ziptie                              | 1 per sensor         | Amazon, Aliexpress                                                                                 |
 | 22AWG silicone cable                | As needed            | Amazon, Aliexpress, included in the ERCF kit                                                                                |
 | Heatshrink tubing (optional)        | As needed            | Amazon, Aliexpress, Hardware stores                                                                                |
-| Soldering iron & solder             | 1 per setup          | Amazon, Aliexpress, Hardware stores                                                                                |
+| Soldering iron & solder             | As needed          | Amazon, Aliexpress, Hardware stores                                                                                |
+| ECAS fittings             | 2 per sensor          | Amazon, Aliexpress, Hardware stores                                                                                |
 
+## Assembly tips
+1. Make sure your bridges have printed cleanly, so the switch slides in the housing without any force. If your bridges are not "clean" you may end up depressing the level switch at installation!
+2. Position the switch and set the two screws. Dont screw them in fully as you may need to slightly adjust the switch position below.
+3. Taking turns, screw one screw a bit at a time till both are tight. If the switch clicks, back the screw out a bit and reposition the switch slightly so it is secure without it being activated!
+4. Place the ecas fittings and solder the wires to the switches as per your MMU's instructions.
+
+**IMPORTANT:** The sensor is directional! The arrows must point to the filament path direction - i.e. pointing towards your MMU/printer. While the sensor can be installed in reverse, its performance will be sub optimal as the filament path drag has been optimised to enable smooth filament re-wind when performing endless spool operations.
+
+**IMPORTANT:** When loading your MMU make sure the end of the filament is straight - this will help the filament ease through the sensor without it catching.
 
 ## Images
 ![image](https://github.com/user-attachments/assets/663353b0-848a-48ab-8baf-64ccd3c2d612)
