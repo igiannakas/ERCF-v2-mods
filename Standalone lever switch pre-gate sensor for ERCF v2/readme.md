@@ -18,9 +18,12 @@ This design was inspired by and based on the CAD work done by [Juliusjj25](https
 1. **Layer Height**: 0.16-0.2mm layer height (0.16mm recommended), with a 0.25mm first layer height.
 2. **Walls**: 4 walls, with a 0.4mm forced extrusion width.
 3. **Wall Generation**: Use classic wall generator with thin wall detection enabled.
-4. **Bridges**: Ensure thick bridges are disabled in your slicer.
-5. **Infill:** 40%, gyroid.
-6. **Print in ABS or ASA** - model has been designed to account for material shrinkage, so please disable shrinkage compensation.
+4. **Wall Odering:** Inner - Outer only. Outer-inner (External perimeter first) and Inner-Outer-Inner **will not** provide the level of overhang quality needed to print the model with the right tolerances. If using Orca slicer, enable the Precise Wall option for better surface finish. 
+5. **Bridges**: Ensure thick bridges are disabled in your slicer.
+6. **Infill:** 40%, gyroid.
+7. **Top and Bottom surfaces:** 5 (when using 0.16 LH), or 4 (when using 0.2 LH)
+8. **Print in ABS or ASA** - model has been designed to account for material shrinkage, so please disable shrinkage compensation in the slicer.
+9. **Make sure your filament flow rate is calibrated correctly.** The part requires a well calibrated printer to deliver the required tolerances for reliable operation. If in doubt, prit the ERCF / Voron calibration tests.
 
 ## BOM
 Per sensor:
