@@ -19,6 +19,7 @@ This design was inspired by and based on the CAD work done by [Juliusjj25](https
 2. **Walls**: 4 walls, with a 0.4mm forced extrusion width.
 3. **Wall Generation**: Use classic wall generator with thin wall detection enabled.
 4. **Bridges**: Ensure thick bridges are disabled in your slicer.
+5. **Print in ABS or ASA** - model has been designed to account for material shrinkage, so please disable shrinkage compensation.
 
 ## Images
 
