@@ -12,6 +12,8 @@ This design was inspired by and based on the CAD work done by [Juliusjj25](https
 1. **Improved Endless Spool Reliability**: The sensor is designed to be placed at a distance from the MMU gates. This helps improve endless spool reliability by reducing the likelihood that the filament travels past the MMU gate before Klipper pauses the print.
    
 2. **Optimized Filament Path**: The carefully designed filament path allows for low friction and low "collision" retraction from the MMU back to your buffer of choice. This reduces the probability of filament stalling and getting stuck before reaching the buffer.
+   
+3. **Integration with the Filamentalist buffer**, allowing for improved endless spool and flexible placement.
 
 ## Print Settings
 
@@ -20,6 +22,15 @@ This design was inspired by and based on the CAD work done by [Juliusjj25](https
 3. **Wall Generation**: Use classic wall generator with thin wall detection enabled.
 4. **Bridges**: Ensure thick bridges are disabled in your slicer.
 5. **Print in ABS or ASA** - model has been designed to account for material shrinkage, so please disable shrinkage compensation.
+
+## BOM
+Per sensor:
+1. One Omron D2F-L3-D3 switch. Can be sourced from Digikey or similar: https://www.digikey.co.uk/en/products/detail/omron-electronics-inc-emc-div/D2F-L3-D3/6071977 / https://www.mouser.co.uk/ProductDetail/Omron-Electronics/D2F-L3-D3 / https://uk.farnell.com/omron/d2f-l3-d3/microswitch-spdt-3a-125vac-80gf/dp/3460475?srsltid=AfmBOooyXtRiA0Lhb6sgqgUqda9LHVzt09KAmqzoH-cethEpJRQfK7I8
+2. Two M2x6 or 8mm Self-Tapping screws
+3. One ziptie to cable manage the sensor cable on the sensor
+4. 22AWG silicone cable
+5. Heatshrink tubing (optional)
+6. Soldering iron & solder
 
 ## Images
 
