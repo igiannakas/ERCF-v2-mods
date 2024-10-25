@@ -42,6 +42,7 @@ Per sensor:
 2. Position the switch and set the two screws. Dont screw them in fully as you may need to slightly adjust the switch position below.
 3. Taking turns, screw one screw a bit at a time till both are tight. If the switch clicks, back the screw out a bit and reposition the switch slightly so it is secure without it being activated!
 4. Place the ecas fittings and solder the wires to the switches as per your MMU's instructions.
+5. Run a fragment of filament through by hand to clear out and loosen thr filament path.
 
 **IMPORTANT:** The sensor is directional! The arrows must point to the filament path direction - i.e. pointing towards your MMU/printer. While the sensor can be installed in reverse, its performance will be sub optimal as the filament path drag has been optimised to enable smooth filament re-wind when performing endless spool operations.
 
