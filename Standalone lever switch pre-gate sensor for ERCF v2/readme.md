@@ -52,6 +52,7 @@ Per sensor:
 ![image](https://github.com/user-attachments/assets/40528144-d372-4c17-aae7-4c8dc8b981d7)
 ![IMG_4764](https://github.com/user-attachments/assets/5445c45a-4c29-48b3-8b34-6efb6d59fb14)
 ![IMG_4765](https://github.com/user-attachments/assets/bf8ff659-4ab3-4ba1-bb87-c28252ebd128)
+![IMG_4770](https://github.com/user-attachments/assets/ad9b905e-0ab4-4336-8e66-c246596be65c)
 
 
 **Please note the sensor is directional. The arrows must point towards the MMU / printer.** 
