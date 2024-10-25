@@ -46,6 +46,8 @@ Per sensor:
 
 **IMPORTANT:** The sensor is directional! The arrows must point to the filament path direction - i.e. pointing towards your MMU/printer. While the sensor can be installed in reverse, its performance will be sub optimal as the filament path drag has been optimised to enable smooth filament re-wind when performing endless spool operations.
 
+If you're using this as a stand alone filament sensor install it flipped so the arrows point to your filament spool and not the printer. This will make filament loading easier since automated endlews spool operation is not needed in that case.
+
 **IMPORTANT:** When loading your MMU make sure the end of the filament is straight - this will help the filament ease through the sensor without it catching.
 
 ## Images
